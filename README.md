@@ -1,2 +1,0 @@
-# ReduxShoppingCart
-Created with CodeSandbox
